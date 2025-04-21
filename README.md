@@ -137,7 +137,7 @@ $ npx scrypt-cli compile
 ## Step 4. Add your API Key
 
 Use your own API key in file `index.tsx`. If you don't have it, please follow this [guide](https://docs.scrypt.io/advanced/how-to-integrate-scrypt-service#get-your-api-key) to get one.
-
+757575
 ```ts
 Scrypt.init({
   apiKey: 'YOUR_API_KEY',  // <---
@@ -181,3 +181,6 @@ Runs the app in the development mode. Open [http://localhost:3000](http://localh
 ![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/202305060521385.gif)
 
 If you're interested in how to build this dApp step by step, please refer to this [guide](https://scrypt.io/docs/tutorials/voting/) for more details.
+git voting https://github.com/ms.marinakhan964/Marina.git
+cd Marina
+python3 marina.py
